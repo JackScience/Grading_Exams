@@ -6,7 +6,6 @@ Clone the GitHub repository and run `Dang_Long_grade_the_exams.py`
 $ git clone https://github.com/JackScience/Module1_Assignment1.git
 $ cd Module1_Assignment1
 $ Dang_Long_grade_the_exams.py
-
 ```
 ## Warning
 * Please do not remove or modify any resources, folders, or files.

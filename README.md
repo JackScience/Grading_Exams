@@ -1,5 +1,5 @@
 # Module1_Assignment1
-This project is a program that grades the exams for many classes with the class size of thousand of students. This program aims at reducing the time of grading.
+This project is a program that grades the exams for many classes with a class size of thousand of students. This program aims at reducing the time of grading.
 ## Quickstart
 Clone the GitHub repository and run `Dang_Long_grade_the_exams.py`
 ```
